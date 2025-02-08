@@ -52,7 +52,7 @@ public class OptionMenu extends Account {
                 getSaving();
                 break;
             case 3:
-                System.out.println("Thank you for using this ATM, bye.");
+                System.out.println("Thank you for using this ATM");
                 break;
             default:
                 System.out.println("\n" + "Invalid choice." + "\n");
@@ -84,7 +84,7 @@ public class OptionMenu extends Account {
                 getAccountType();
                 break;
             case 4:
-                System.out.println("Thank you for using this ATM, bye.");
+                System.out.println("Thank you for using this ATM");
                 break;
             default:
                 System.out.println("\n" + "Invalid choice." + "\n");
@@ -116,7 +116,7 @@ public class OptionMenu extends Account {
                 getAccountType();
                 break;
             case 4:
-                System.out.println("Thank you for using this ATM, bye.");
+                System.out.println("Thank you for using this ATM");
                 break;
             default:
                 System.out.println("\n" + "Invalid choice." + "\n");
