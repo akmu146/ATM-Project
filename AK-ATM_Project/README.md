@@ -1,18 +1,27 @@
-## Getting Started
+# ATM Simulation System 🏦  
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview  
+This is a **Java-based ATM simulation** that allows users to perform basic banking operations such as:  
+- Checking account balance 💰  
+- Depositing funds 📥  
+- Withdrawing money 📤  
+- Secure authentication 🔑  
 
-## Folder Structure
+The project follows **Object-Oriented Programming (OOP) principles** including **Abstraction, Encapsulation, Inheritance, and Polymorphism**.  
 
-The workspace contains two folders by default, where:
+## Features 🚀  
+✅ User authentication system (PIN-based login)  
+✅ Deposit, withdrawal, and balance check functionalities  
+✅ Input validation to prevent invalid transactions  
+✅ Exception handling for errors like overdrafts  
+✅ Modular design for easy expansion  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies Used 🛠️  
+- **Java** (Core logic & OOP)  
+- **Git/GitHub** (Version control)  
+- **Eclipse/VS Code** (IDE for development)  
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## How to Run 🏃  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/yourusername/ATM-Project.git
